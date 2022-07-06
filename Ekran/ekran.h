@@ -7,9 +7,7 @@
 
 
 
-/*
-sik_dürüm
-*/
+
 class OledEkran{
     private:
     static const int maksimumEkranSayisi = 5;
